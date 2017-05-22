@@ -15,7 +15,7 @@ Some *basic content* is shown here, review for **accuracy**.
 
 ## Strikethrough
 
-* Basic information
+* Basic information :cloud:
 * ~~More information~~
 * Final bit of info
 
