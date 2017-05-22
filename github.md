@@ -27,6 +27,12 @@ Some *basic content* is shown here, review for **accuracy**.
 - [ ] \(Optional) Review content
 - [ ] Drive home
 
+## Auto-hotlinking
+
+http://www.google.com
+
+www.yahoo.com
+
 ## Fenced Codeblocks
 
 ```html
